@@ -4,4 +4,4 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://disco.mybluemix.net/
+      defaultZone: http://disco.mybluemix.net/eureka/
