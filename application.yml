@@ -1,0 +1,7 @@
+info:
+  description: Cloud Config Server
+  url: https://github.com/spring-cloud-samples/config-repo/blob/master/application.yml
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://disco.mybluemix.net/
